@@ -1,0 +1,154 @@
+﻿ENTRY DATE,WEEK ENDING,ORG CODE,PORT OF ORIGIN,DES CODE,DESTINATION,VESSEL NAME,SIZE,COMM CODE,COMMODITY,DATES,RATE,TERMS,CHARTER
+10-Oct-19,12-Oct-19,1,Newport News,7,Vizagapatnam,STEAMER,75000,1,Coal,Nov 13/22,34.95,FIO;40000tSShex/20000tSShex,SAIL
+10-Oct-19,12-Oct-19,2,Mobile,5,Rotterdam,"ELETTRA, 09",75000,1,Coal,Oct 25/30,16.85,FIO;25000tShinc/25000tShinc,TKSE
+10-Oct-19,12-Oct-19,8,Dalrymple Bay,7,Vizagapatnam,STEAMER,75000,1,Coal,Nov 7/16,18.00,FIO;35000tSShex/20000tSShex,SAIL
+10-Oct-19,12-Oct-19,4,Santos,9,China,STEAMER,65000,2,Hvy Grain,Oct 15/30,32.75,FIO;8000tsShex/8000tSshex,CNR
+10-Oct-19,12-Oct-19,4,Tubarao,9,Qingdao,"SUNBEAM, 00",170000,5,Iron Ore,Oct 12/15,24.25,FIO;3DaysShinc/30000tShinc,Trafigura
+10-Oct-19,12-Oct-19,5,Narvik,9,Qingdao,"STEAMER, (NYK)",150000,5,Iron Ore,Nov 5/19,26.75,FIO;2DaysShinc/30000tShinc,LKAB
+10-Oct-19,12-Oct-19,8,Pt Dampier,9,Qingdao,"HEBEI LEGEND, 10",170000,5,Iron Ore,Oct 26/28,9.50,FIO;90000tShinc/30000tShinc,Rio Tinto
+10-Oct-19,12-Oct-19,8,Pt Dampier,9,Qingdao,STEAMER,170000,5,Iron Ore,Oct 25/24,9.40,FIO;90000tShinc/30000tShinc,Rio Tinto
+10-Oct-19,12-Oct-19,8,Pt Dampier,9,Qingdao,STEAMER,170000,5,Iron Ore,Oct 25/26,9.45,FIO;90000tShinc/30000tShinc,Rio Tinto
+10-Oct-19,12-Oct-19,8,Pt Dampier,9,Qingdao,"STEAMER, (Marmaras)",170000,5,Iron Ore,Oct 21/22,9.50,FIO;90000t/30000tShinc,Rio Tinto
+10-Oct-19,12-Oct-19,7,Oman,7,Karachi,STEAMER,40000,6,Urea,Oct 14/16,16.50,FIO;12000tFhinc/10000tShex,RCF
+10-Oct-19,12-Oct-19,9,Del Donghae,9,Redel China,"SHAO SHAN 8, 14",75366,7,14k/35t,Oct 13/16,15000 Day,3196600GrnBl;CISRd,Tongli
+10-Oct-19,12-Oct-19,9,Del Tianjin,8,Redel Philippines,"XIN HAI TONG 9, 15",48939,7,14k/31t,Oct 14/16,10000 Day,2188600GrnBl;TOViaCIS;Steel,CNR
+10-Oct-19,12-Oct-19,4,Del Paranagua,5,Redel Continent,"BEATRICE, 19",39278,7,14k/30t,Oct 16/18,17000 Day,2501100GrnBl;TripOut;Agris,CNR
+10-Oct-19,12-Oct-19,7,Del Richards Bay,7,Redel Sri Lanka,"IVS NORTHBERWICK, 16",60475,7,14.5k/31.5t,Oct 13/16,13250 Day,2694900GrnBl;TO+$325000Bonus,Oldendorff
+10-Oct-19,12-Oct-19,7,Del Paradip,9,Redel China ViaECIndia,"IRON LADY V, 11",57295,7,13.5k/30.5t,Oct 11/13,12500 Day,2536300GrnBl;TO;IronOre,Bainbridge
+10-Oct-19,12-Oct-19,7,Del Paradip,9,Redel China ViaECIndia,"MENALON, 11",57000,7,14k/34t,Oct 13/15,12500 Day,2528600GrnBl;TO;IronOre,CNR
+10-Oct-19,12-Oct-19,9,Del Nantong,9,Redel Sing/Japan,"ANNE, 11",55568,7,14k/32.5t,Oct 13/15,12000 Day,2326270GrnBl;AusRd,CNR
+10-Oct-19,12-Oct-19,9,Del China,9,Redel So China,"NAN XIN 9, 01",74297,7,14k/33t,Oct 14/17,14000 Day,3149400GrnBl;IndonesiaRd,CNR
+10-Oct-19,12-Oct-19,4,Del EC SoAmerica,,Redel,"OLYMPIC GALAXY, 09",81383,7,14k/36t,Oct 28/31,18000 Day,3389700GrnBl;TO+$800000Bonus,Fractal
+10-Oct-19,12-Oct-19,4,Del EC SoAmerica,9,Redel Sing/Japan,"GREAT VICTORY, 15",79933,7,14k/35t,Oct 27/30,17500 Day,3166300GrnBl;TO+$750000Bonus,CNR
+10-Oct-19,12-Oct-19,4,Del EC SoAmerica,9,Redel Sing/Japan,"PRINCESSKATHERINE, 04",76436,7,14k/34t,Oct 28/30,17000 Day,3224000GrnBl;TO+$700000Bonus,CNR
+10-Oct-19,12-Oct-19,4,Del EC SoAmerica,9,Redel Sing/Japan,"ATLANTIC SAMURAI, 19",81725,7,14k/35.5t,Nov 1/2,18000 Day,3429600GrnBl;TO+$800000Bonus,CNR
+10-Oct-19,12-Oct-19,9,Del CJK,9,Redel Youngheung,"ANANGEL VENTURE, 16",180940,7,14k/52t,Oct2Retro,27100 Day,6322300GrnBl;RichardBayRd,Ssangyong
+10-Oct-19,12-Oct-19,9,Del CJK,0,Redel Unrptd,"ZHONGCHANGZHOUSH, 13",75409,7,14k/35t,Oct 11/16,12500 Day,3192100GrnBl;5-7MoTrdg,Tongli
+10-Oct-19,12-Oct-19,9,Del Beihai,0,Redel Unrptd,"HAKUTA, 11",82165,7,14k/36t,Oct 9/14,13400 Day,3434500GrnBl;8-11MoTrdg,DiamondBlk
+10-Oct-19,12-Oct-19,1,Montreal,1,USAtlantic,"MINERVA RITA, 05",45000,8,Oil Dirty,Oct 22,RNR,,Shell
+10-Oct-19,12-Oct-19,1,Whiffen Head,1,USAtlantic,"AMERICAS SPIRIT, 03",70000,8,Non Heated,Oct 16,W205.5,PtC,P66
+10-Oct-19,12-Oct-19,1,Whiffen Head,1,USAtlantic,"ANGELICA SCHULTE, 05",70000,8,Non Heated,Oct 15,RNR,PtC,P66
+10-Oct-19,12-Oct-19,2,USGulf,5,UK/Continent Med,"ADVANTAGE AWARD, 11",17000,8,Non Heated,Oct 17,W190,PtC,Petrochina
+10-Oct-19,12-Oct-19,2,USGulf,5,UK/Continent Med,"MAKRONISSOS, 02",70000,8,Non Heated,Oct 15,W200,PtC,Valero
+10-Oct-19,12-Oct-19,2,USGulf,9,Ulsan,"EAGLE SAN ANTONIO, 12",130000,8,Non Heated,Nov 4,8000000,Lump Sum,Sk Energy
+10-Oct-19,12-Oct-19,2,Beaumont,1,E Canada,"CAP CORPUS CHRIST, 18",145000,8,Non Heated,Oct 21,W130,,BP
+10-Oct-19,12-Oct-19,2,EC Mexico,2,USGulf,"FREE SPIRIT, 08",70000,8,Non Heated,Oct 15,W195,PtC,Chevron
+10-Oct-19,12-Oct-19,2,EC Mexico,2,USGulf,"GOLD SUN, 04",70000,8,Non Heated,Oct 16,W190,PtC,Valero
+10-Oct-19,12-Oct-19,2,EC Mexico,2,USGulf,"GRIMSTAD, 07",70000,8,Non Heated,Oct 16,W180,PtC,HoustonRef
+10-Oct-19,12-Oct-19,2,Caribbeans,2,Chiriqui Grande,"RS TARA, 16",145000,8,Oil Dirty,Oct 30,W155,,Unipec
+10-Oct-19,12-Oct-19,2,Covenas,2,Chiriqui Grande,"BARCELONA SPIRIT, 11",145000,8,Non Heated,Oct 26,RNR,,Unipec
+10-Oct-19,12-Oct-19,4,Brazil,9,Far East,"PANTANASSA, 11",260000,8,Non Heated,Oct 13,W138,,Petrogal
+10-Oct-19,12-Oct-19,5,Tees,9,Dalian,"AMOUREUX, 08",130000,8,Non Heated,Nov 5,9200000,Lump Sum,Shell
+10-Oct-19,12-Oct-19,5,North Sea,5,UK/Continent,"NEW ACCORD, 09",80000,8,Non Heated,Oct 11,RNR,,CSSA
+10-Oct-19,12-Oct-19,5,Murmansk,5,UK/Continent,"DEEP BLUE, 05",100000,8,Non Heated,Oct 20,W147.5,,Gazprom
+10-Oct-19,12-Oct-19,5,Baltic,5,UK/Continent,"MOSKOVSKY PROSP., 10",100000,8,Non Heated,Oct 23,W155,OpScandinaviaW160,CSSA
+10-Oct-19,12-Oct-19,5,Baltic,5,UK/Continent,"SEATRUST, 04",100000,8,Non Heated,Oct 21,W140,,Clearlake
+10-Oct-19,12-Oct-19,6,Ceyhan Terminal,6,Mediterranean,"SEA JAGUAR, 11",80000,8,Non Heated,Oct 21,W185,,UML
+10-Oct-19,12-Oct-19,6,CPC,1,USAtlantic,"RELIABLE WARRIOR, 17",135000,8,Non Heated,Nov 6,W180,,Litasco
+10-Oct-19,12-Oct-19,6,CPC,8,Singapore,"OTTOMAN TENACITY, 12",135000,8,Non Heated,Nov 5,5800000,LS;OpNingBo$7600000,Chevron
+10-Oct-19,12-Oct-19,6,CPC,9,So Korea,"LESVOS, 17",135000,8,Non Heated,Nov 1,8000000,Lump Sum,Chevron
+10-Oct-19,12-Oct-19,6,Taman,2,USGulf,"SEAMAGIC, 07",100000,8,Oil Dirty,Oct 29,W95,,Vitol
+10-Oct-19,12-Oct-19,6,Libya,8,Hawaii,"CHAFA, 01",130000,8,Non Heated,Nov 2,7100000,Lump Sum,Unipec
+10-Oct-19,12-Oct-19,6,Zawia,6,Mediterranean,"OHIO, 09",80000,8,Non Heated,Oct 19,W190,,Vitol
+10-Oct-19,12-Oct-19,6,Arzew,8,Brisbane,"ELANDRA EAGLE, 17",130000,8,Non Heated,Oct 30,8000000,Lump Sum,Ampol
+10-Oct-19,12-Oct-19,4,W Africa,5,UK/Continent Med,"SUEZ HANS, 11",130000,8,Non Heated,Oct 30,W200,OpTurkeyD W195,CSSA
+10-Oct-19,12-Oct-19,4,W Africa,7,So Africa,TANKER,130000,8,Oil Dirty,Nov 3,W240,,BP
+10-Oct-19,12-Oct-19,4,W Africa,9,China,"FRONT SIGNE, 10",260000,8,Non Heated,Oct 14,W135,,Unipec
+10-Oct-19,12-Oct-19,4,W Africa,9,China,"LEICESTER, 17",260000,8,Non Heated,Oct 14,W130,,CSSA
+10-Oct-19,12-Oct-19,4,Ghana,7,Durban,"RIDGE. JOHNZIPSER, 09",130000,8,Non Heated,Oct 29,W195,,BP
+10-Oct-19,12-Oct-19,4,Agbami,7,Paradip,"OLYMPIC LOYALTY II, 0",260000,8,Non Heated,Nov 15,W132.5,,IOC
+10-Oct-19,12-Oct-19,4,Nigeria,8,Melbourne,"MALIBU, 17",130000,8,Oil Dirty,Oct 27,W230,,ExxonMobil
+10-Oct-19,12-Oct-19,4,Kribi,5,Rotterdam,"HOMERIC, 19",130000,8,Non Heated,Oct 28,W217.5,,Maersk
+10-Oct-19,12-Oct-19,4,Brass Terminal,7,Durban,"SUMMIT SPIRIT, 08",130000,8,Non Heated,Nov 3,W240,,BP
+10-Oct-19,12-Oct-19,4,Qua Iboe,8,Cilacap,"SABINE, 12",130000,8,Non Heated,Oct 20,7500000,Lump Sum,Pertamina
+10-Oct-19,12-Oct-19,7,Red Sea,8,Singapore,"PERICLES, 03",80000,8,Oil Dirty,Oct 25,RNR,PtC,Reliance
+10-Oct-19,12-Oct-19,7,ME Gulf,7,Red Sea,"BARENTS SEA, 00",80000,8,Oil Dirty,Oct 14,900000,LS;OpFarEastD W172,ATC
+10-Oct-19,12-Oct-19,7,ME Gulf,7,Red Sea,"NEPTUN, 07",280000,8,Non Heated,Nov 1,RNR,,Bahri
+10-Oct-19,12-Oct-19,7,ME Gulf,8,Bataan,"KASSAB, 18",270000,8,Non Heated,Nov 5,W165,,Hyundai
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Yosu,"C. PASSION, 13",270000,8,Non Heated,Nov 1,W140,,Caltex
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Yosu,"V. ADVANCE, 19",270000,8,Non Heated,Oct 27,RNR,,Caltex
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Ulsan,"NAVE SPHERICAL, 09",270000,8,Non Heated,Oct 28,RNR,,SK Energy
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Onsan,"DESH VAIBHAV, 05",27400,8,Non Heated,Nov 5,W142.5,PtC,Koch
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Daesan,"IVONNE, 04",270000,8,Non Heated,Oct 26,W125,,Hyundai
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Japan,"NEW INSPIRATION, 02",270000,8,Non Heated,Oct 31,W142.5,,Idemitsu
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Japan,"MARAN CORONA, 03",270000,8,Non Heated,Nov 1,W155,,JX
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Far East,"DUBAI GLAMOUR, 09",80000,8,Fuel Oil,Oct 9,RNR,PtC,Uniper
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"ERBIL, 16",270000,8,Non Heated,Nov 1,W140,,Unipec
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"NECTAR, 08",270000,8,Non Heated,Nov 3,W147.5,,DayHarvest
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"MANAH, 08",270000,8,Non Heated,Nov 1,W140,,Unipec
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"HERON, 17",270000,8,Non Heated,Nov 5,W187.5,,DayHarvest
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"PAPALEMOS, 18",270000,8,Non Heated,Nov 2,W140,,Unipec
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"FRONT HAKATA, 02",270000,8,Oil Dirty,Oct 25,W109.5,,CNOOC
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"DHT EUROPE, 07",270000,8,Non Heated,Nov 3,W195,,Hengli
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"ATHENIAN VICTORY, 09",270000,8,Non Heated,Nov 1,W140,,Unipec
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"AROSA, 93",270000,8,Non Heated,Nov 3,W140,,Unipec
+10-Oct-19,12-Oct-19,7,ME Gulf,9,China,"BRIGHT PIONEER, 10",270000,8,Non Heated,Oct 30,W127.5,,Rongsheng
+10-Oct-19,12-Oct-19,7,Mina Al Ahmadi,8,Vietnam,"MARAN CANOPUS, 07",270000,8,Non Heated,Nov 1,W170,,NSRP
+10-Oct-19,12-Oct-19,7,Das Island,7,Pakistan,"EUROBRAVE, 02",80000,8,Non Heated,Oct 16,700000,Lump Sum,Opecs
+10-Oct-19,12-Oct-19,7,Das Island,7,Mumbai,"DESH SHANTI, 04",91000,8,Non Heated,Oct 19,RNR,PtC,SCI
+10-Oct-19,12-Oct-19,7,Ras Tanura,7,Durban,"LONDON SPIRIT, 11",130000,8,Non Heated,Oct 31,W150,,Sasol
+10-Oct-19,12-Oct-19,7,Ras Tanura,7,Vadinar,"POSEIDON I, 02",270000,8,Non Heated,Oct 26,W220,OpMundra W225,IOC
+10-Oct-19,12-Oct-19,7,Ras Tanura,8,Rayong,"MARBELLA, 00",270000,8,Non Heated,Nov 1,W115,,PTT
+10-Oct-19,12-Oct-19,7,Ras Tanura,9,Onsan,"DHT LEOPARD, 16",274000,8,Non Heated,Oct 27,W135,,Equinor
+10-Oct-19,12-Oct-19,7,Ras Tanura,9,Onsan,"NEW TINOS, 99",274000,8,Non Heated,Nov 2,W137.5,,Ssanyong
+10-Oct-19,12-Oct-19,7,Al Shaheen,8,Thailand,"JAG LATEEF, 00",130000,8,Non Heated,Oct 23,W185,,Thai Oil
+10-Oct-19,12-Oct-19,8,Kumul,8,Napa Napa,"ADAFERA, 04",80000,8,Oil Dirty,Oct 28,600000,Lump Sum,Trafigura
+10-Oct-19,12-Oct-19,8,Singapore,9,No China,"PETROPAVLOVSK, 02",80000,8,Bitumen,Oct 21,W140,,Vitol
+10-Oct-19,12-Oct-19,8,Singapore,8,Kwinana,"TANKER, (Teekay)",80000,8,Oil Dirty,Oct 20,W180,,BP
+10-Oct-19,12-Oct-19,8,Linggi,8,Geelong,"ASHLEY LADY, 10",80000,8,Non Heated,Oct 16,RNR,,Vitol
+10-Oct-19,12-Oct-19,9,Kozmino,9,China,"DELTA OCEAN, 10",130000,8,Oil Dirty,Oct 25,1500000,Lump Sum,NPI
+10-Oct-19,12-Oct-19,8,W Australia,8,Singapore,"NEW AWARD, 10",80000,8,Non Heated,Oct 22,W160,,CNR
+10-Oct-19,12-Oct-19,2,USGulf,2,EC Mexico,"VELOS LEO, 08",38000,8,Oil Clean,Oct 12,RNR,,Gunvor
+10-Oct-19,12-Oct-19,2,USGulf,2,Caribbeans,"AVON, 19",38000,8,UltrSlfrDsl,Oct 17,475000,Lump Sum,ATMI
+10-Oct-19,12-Oct-19,2,USGulf,2,Caribbeans,"PLOVER PACIFIC, 09",38000,8,Oil Clean,Oct 15,495000,Lump Sum,CNR
+10-Oct-19,12-Oct-19,2,USGulf,4,Brazil,"MARLIN AVENTURINE, 16",38000,8,Oil Clean,Nov 8,RNR,,Trafigura
+10-Oct-19,12-Oct-19,2,USGulf,4,Chile,"ATLANTIC PRIDE, 18",38000,8,MTBE,Oct 15,1400000,Lump Sum,ENAP
+10-Oct-19,12-Oct-19,2,USGulf,4,Chile,TANKER,38000,8,Unleaded,Oct 15,1400000,Lump Sum,ENAP
+10-Oct-19,12-Oct-19,2,USGulf,9,Japan,"PETALOUDA, 08",38000,8,Naphtha,Oct 18,1500000,Lump Sum,BP
+10-Oct-19,12-Oct-19,2,USGulf,9,Japan,TANKER,38000,8,Naphtha,Oct 18,1500000,Lump Sum,BP
+10-Oct-19,12-Oct-19,2,USGulf,9,Far East,"STI GALATA, 17",38000,8,Naphtha,Oct 15,1450000,Lump Sum,Valero
+10-Oct-19,12-Oct-19,5,No Spain,5,UK/Continent,"STAR I, 07",30000,8,Naphtha,Oct 14,W160,OpBordeuxD W180,Repsol
+10-Oct-19,12-Oct-19,5,UK/Continent,5,UK/Continent,"NORDIC HANNE, 07",30000,8,Oil Clean,Oct 13,W150,InterUK/ContVoy,BP
+10-Oct-19,12-Oct-19,5,Fawley,6,Mediterranean,"TORM GYDA, 09",30000,8,Gas Oil,Oct 12,W140,OpUK/ContW130,Sahara
+10-Oct-19,12-Oct-19,5,Donges,5,UK/Continent,"TANKER, (GTS)",30000,8,Oil Clean,Oct 17,W150,,BP
+10-Oct-19,12-Oct-19,5,AntRottAmsterdm,1,USAtlantic,"SEA HELIOS, 04",37000,8,UnldMotorSprt,Oct 14,W137.5,,ExxonMobil
+10-Oct-19,12-Oct-19,5,AntRottAmsterdm,4,W Africa,"ZOILO, 15",37000,8,Oil Clean,Oct 12,W150,,Vitol
+10-Oct-19,12-Oct-19,5,AntRottAmsterdm,4,W Africa,"BW HUDSON, 07",60000,8,Oil Clean,Oct 18,W135,,Nidas
+10-Oct-19,12-Oct-19,5,Melkoya,8,Singapore,"NAVE VELOCITY, 15",37000,8,Condensates,Oct 17,1680000,Lump Sum,CSSA
+10-Oct-19,12-Oct-19,5,Primorsk,5,UK/Continent,"KRONBORG, 07",30000,8,UltrSlfrDsl,Oct 17,W145,,Vitol
+10-Oct-19,12-Oct-19,5,Augusta,6,Algeria,"CAPE GAVI, 08",30000,8,UnldMotorSprt,Oct 10,W130,,Sonatrach
+10-Oct-19,12-Oct-19,6,Algeciras,1,USAtlantic,"NORD SWIFT, 15",37000,8,UnldMotorSprt,Oct 15,W137.5,OpUK/ContD W140,Cepsa
+10-Oct-19,12-Oct-19,6,Izmit,7,Suez,"SEA HALCYONE, 01",37000,8,UnldMotorSprt,Oct 16,560000,LS;OpJeddah$610000,CNR
+10-Oct-19,12-Oct-19,6,Arzew,5,UK/Continent,"FPMC P HERO, 11",90000,8,Condensates,Oct 15,1150000,Lump Sum,Sabic
+10-Oct-19,12-Oct-19,7,Yanbu,5,UK/Continent,"LR2 PIONEER, 08",80000,8,Oil Clean,Oct 29,2250000,PtC;Lump Sum,ATC
+10-Oct-19,12-Oct-19,7,Yanbu,5,UK/Continent,"OCEAN PEGASUS, 09",90000,8,UltrSlfrDsl,Oct 26,2250000,Lump Sum,Mabanaft
+10-Oct-19,12-Oct-19,7,Yanbu,5,UK/Continent,"ABU DHABI-III, 11",90000,8,UltrSlfrDsl,Oct 24,2250000,Lump Sum,ATC
+10-Oct-19,12-Oct-19,7,Yanbu,6,Alexandria,"PTI HUANG HE, 16",35000,8,UltrSlfrDsl,Oct 17,600000,Lump Sum,ATC
+10-Oct-19,12-Oct-19,7,Yanbu,7,Sudan,"ORIENT CHALLENGE, 17",35000,8,Oil Clean,Oct 12,250000,Lump Sum,Trafigura
+10-Oct-19,12-Oct-19,7,ME Gulf,7,ME Gulf,"SCF DON, 09",35000,8,UltrSlfrDsl,Oct 16,225000,PtC;LS;OpEAfricaD W135,CSSA
+10-Oct-19,12-Oct-19,7,ME Gulf,9,Japan,"OCEAN GLOBE, 07",35000,8,Naphtha,Oct 26,W130,PtC,Idemitsu
+10-Oct-19,12-Oct-19,7,Jubail,7,UAE,"DL COSMOS, 07",35000,8,UnldMotorSprt,Oct 17,190000,LS;OpPakistan$250000,CSSA
+10-Oct-19,12-Oct-19,7,Jubail,8,Singapore,"STI OSCEOLA, 15",35000,8,UltrSlfrDsl,Oct 14,W152.5,OpMEGulfD LS$200000,CSSA
+10-Oct-19,12-Oct-19,7,Ras Laffan,9,Japan,"FREIGHT MARGIE, 04",55000,8,Naphtha,Oct 22,W115,,SK Energy
+10-Oct-19,12-Oct-19,7,Khor Al Zubair,7,Fujairah,"JO KARI, 07",15000,8,Condensates,Oct 9,265000,PtC;Lump Sum,OceanEnerg
+10-Oct-19,12-Oct-19,7,Fujairah,7,E Africa,"MARLIN MILLENNIA, 19",35000,8,Unleaded,Oct 21,137500,Lump Sum,Sahara
+10-Oct-19,12-Oct-19,7,Karachi,7,Sohar,"UACC CONSENSUS, 05",35000,8,Oil Clean,Oct 13,270000,Lump Sum,BP
+10-Oct-19,12-Oct-19,7,WC India,9,Japan,"CHANGHANGGUANG R., 07",35000,8,Naphtha,Oct 17,W120,,BP
+10-Oct-19,12-Oct-19,7,Sikka,5,UK/Continent,"ALPINE PERSEFONE, 08",60000,8,Alkylate,Oct 17,1550000,Lump Sum,BP
+10-Oct-19,12-Oct-19,7,Cochin,7,Fujairah,"TORM HORIZON, 04",35000,8,Gas Oil,Oct 13,300000,LS;OpWAfr$1250000,BP
+10-Oct-19,12-Oct-19,7,Sikka,8,Singapore,"ALPINE PENELOPE, 08",55000,8,Naphtha,Oct 20,W142.5,OpJapanD W127.5,ExxonMobil
+10-Oct-19,12-Oct-19,7,Vadinar,5,UK/Continent,"TORM ISMINI, 04",60000,8,Gas Oil,Oct 16,1730000,Lump Sum,ST Shipp
+10-Oct-19,12-Oct-19,7,New Mangalore,5,UK/Continent,"STI EXECUTIVE, 16",60000,8,UltrSlfrDsl,Oct 18,1725000,LS;OpEAfricaD W130,Vitol
+10-Oct-19,12-Oct-19,7,New Mangalore,5,UK/Continent,"BW EGRET, 14",35000,8,Jet Fuel,Oct 25,1250000,Lump Sum,BP
+10-Oct-19,12-Oct-19,7,Paradip,7,Chittagong,"TORM GERTRUD, 02",35000,8,Gas Oil,Oct 11,250000,LS;OpSingapore$350000,Unipec
+10-Oct-19,12-Oct-19,7,Paradip,7,Haldia,"JAG PRANAV, 05",16000,8,Oil Clean,Oct 17,205000,PtC;Lump Sum,IOC
+10-Oct-19,12-Oct-19,8,Singapore,8,Singapore,"BRIGHT FORTUNE, 10",35000,8,Jet Fuel,Oct 11,180000,LS:;OpHongKong$325000,Winson
+10-Oct-19,12-Oct-19,8,Singapore,8,New Zealand,"GRAND ACE12, 08",35000,8,Unleaded,Oct 15,RNR,,ExxonMobil
+10-Oct-19,12-Oct-19,9,So Korea,8,Ho Chi Minh,"GRAND ACE6, 07",35000,8,UnldMotorSprt,Oct 10,410000,Lump Sum,Petrolimex
+10-Oct-19,12-Oct-19,9,Ulsan,9,So China,"MR PAT BROWN, 09",35000,8,Light Crude,Oct 21,RNR,PtC,Petrobras
+10-Oct-19,12-Oct-19,9,Wakayama &Skorea,8,Australia,"TORM EMILIE, 04",60000,8,Oil Clean,Oct 26,W137.5,,Vitol
+10-Oct-19,12-Oct-19,9,Sakai,8,Singapore,"GREEN PLANET, 14",35000,8,Light Crude,Oct 16,455000,PtC;Lump Sum,Vitol
+10-Oct-19,12-Oct-19,9,Nanjing,8,Singapore,"NCC TIHAMA, 06",35000,8,UnldMotorSprt,Oct 14,420000,Lump Sum,Shell
+10-Oct-19,12-Oct-19,9,No China,3,WC US,"GRAND ACE2, 06",35000,8,Oil Clean,Oct 10,RNR,,CNR
+10-Oct-19,12-Oct-19,9,Dongguan,8,Philippines,"GRAND ACE 11, 08",35000,8,Oil Clean,Oct 17,RNR,,Kairos
+10-Oct-19,12-Oct-19,9,China,5,UK/Continent,"NORD BUTTERFLY, 08",30000,8,Naphtha,Oct 19,W145,,CSSA
